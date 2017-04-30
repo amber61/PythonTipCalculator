@@ -1,0 +1,7 @@
+1. Add an Record
+2. Delete an Record
+3. Lookup an Record
+4. Update an Record
+5. Print All Records
+6. Calculate specific customer sum expenses
+7. Quit
